@@ -1,0 +1,88 @@
+.about
+{
+    background-color: #fcf2eb;
+    height: 100vh;
+}
+.section-padding
+{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.section-bg
+{
+    background-color: #FCF2EB;
+}
+.container_6
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+
+}
+.img_div
+{
+    width: 40%;
+}
+
+.img_div img
+{
+    margin-top: 5rem;
+    width: 666px;
+    height: 455px;
+    padding-left: 5rem;
+    margin-inline-start: 15em;
+    
+}
+.about_caption
+{
+    margin-inline-start:12rem;
+    padding-right: 18rem;
+}
+.about_caption h2
+{
+    color: #32404D;
+    font-size: 55px;
+    display: block;
+    font-weight: bold;
+    line-height: 1.2;
+    text-transform: uppercase;
+    margin-inline-start: 5rem;
+    margin-inline-end: 3rem; 
+}
+.about_caption h3
+{
+    color: #32404D;
+    font-weight: 600;
+    font-size: 30px;
+    margin-inline-start: 5rem;
+    margin-inline-end: 3rem;
+}
+.about_caption p{
+    color: #777777;
+    font-size: 18px;
+    font-family: 400;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-inline-start:5rem;
+    margin-inline-end:3rem;
+}
+.section_title
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5rem;
+    margin-top: 5rem;
+}
+.form-button
+{
+    color: #007a5c;
+    font-weight: 600;
+    font-size: 17px;
+    position: relative;
+    display: inline-block;
+    border-bottom: 2px solid #007a5c;
+    margin-inline-start: 5rem;
+    margin-inline-end: 3rem;
+}

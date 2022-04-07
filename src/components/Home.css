@@ -1,0 +1,74 @@
+.home
+{
+    background-image: url("D:/React/colorlib/colorlib1/src/images/website.jpg");
+    background-size: cover;
+    height: 75vh;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100%;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    z-index: 999;
+    opacity: 1;
+
+}
+
+
+
+.home h3 span{
+    font-size: 24px;
+    line-height: 1.2;
+    font-weight: 400;
+    color: #fff;
+    margin-bottom: 20px;
+    display: inline-block;
+    margin-inline-start: 6rem;
+}
+.home h1{
+    font-family: 'Chivo', sans-serif;
+    font-size: 54px;
+    font-weight: 900;
+    margin-bottom: 9px;
+    color: #fff;
+    line-height: 1.2;
+    text-transform: uppercase;
+    margin-inline-start: 6rem;
+
+}
+.home h3 p
+{
+    color: #fff;
+    margin-bottom: 41px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.5;
+    margin-inline-start: 6rem;
+}
+.btn_1
+{
+    background-color: #007a5c;
+    color: #fff !important;
+    font-size: 18px;
+    border-radius: 0;
+    font-weight: 400;
+    text-transform: capitalize;
+    border: 1px solid transparent;
+    display: inline-block;
+    padding: 5px 5px;
+    width: 200px;
+    height: 70px;
+    margin-inline-start: 3rem;
+}
+ .container1
+{
+    margin-left: 12rem;
+    padding-top: 5rem;
+    
+} 
+.btn_container
+{
+    margin-left: 12rem;
+    padding-top: 5rem;
+    margin-inline-start: 15rem;
+}

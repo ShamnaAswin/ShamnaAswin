@@ -1,0 +1,1177 @@
+.footer-padding
+{
+    padding-top: 100px;
+    padding-bottom: 50px;
+
+} .container_4
+{
+    width: 100%;
+    /* padding-left: var(--bs-gutter-x,.75rem); */
+    /* padding-right: var(--bs-gutter-x,.75rem); */
+    margin-right: auto;
+    margin-left: auto;
+}
+ /* .row_5
+{
+ justify-content: space-between;
+ --bs-gutter-x:1.5rem;
+ --bs-gutter-y:0;
+ display: flex; 
+ flex-wrap: wrap;
+ margin-top: calc(var(--bs-gutter-y) * -1);
+ margin-right: calc(var(--bs-gutter-x)/ -2);
+margin-left: calc(var(--bs-gutter-x)/ -2);
+}
+@media (min-width:992px)
+{
+    .col-lg-2
+    {
+        flex: 0 0 auto;
+        width: 16.666666667%;
+    }
+
+}
+.mb-50
+{
+    margin-bottom: 50px;
+
+}
+.mb-20
+{
+    margin-bottom: 20px;
+}
+.footer_title h4{
+    color: #fff;
+    font-size: 20px;
+    margin-bottom: 30px;
+    font-weight: 600;
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    line-height: 1.5;
+}
+.footer_title ul
+{
+    margin: 0;
+    padding: 0;
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+ul li
+{
+    margin-bottom: 15px;
+    list-style: none;
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+li a{
+    color: #a7aeb4;
+    font-weight: 400;
+    font-size: 400;
+    font-size: 16px;
+    text-decoration: underline transparent;
+}   */
+.row_5
+{
+    display: flex; 
+  flex-wrap: wrap; 
+  justify-content: center;
+  --bs-gutter-x:1.5rem;
+ --bs-gutter-y:0; 
+  margin-top: calc(var(--bs-gutter-y) * -1);
+ margin-right: calc(var(--bs-gutter-x)/ -2);
+ margin-left: calc(var(--bs-gutter-x)/ 30); 
+
+}
+.footer_title h4{
+    color: #fff;
+    font-size: 20px;
+    margin-bottom: 30px;
+    font-weight: 600;
+    display: block;
+    margin-block-start: 2em;
+    margin-block-end: 2em;
+    margin-inline-start:5em;
+    margin-inline-end: 2em;
+    line-height: 1.5;
+}
+.footer_title ul
+{
+    margin: 0;
+    padding: 0;
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 4em;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    color: #fff;
+
+}
+ul li
+{
+    margin-bottom: 15px;
+    list-style: none;
+    display: list-item;
+    text-align: -webkit-match-parent;
+    margin-inline-start: 10em;
+    margin-inline-end: 10em;
+    color: #fff;
+}
+ul li a{
+    color: #a7aeb4;
+}
+form input{
+    width: 100%;
+    height:30px;
+    /* padding: 10px 20px; */
+    border: none;
+    border-radius: 0px;
+    color: #5c6168;
+    background-color: #fff;
+}
+/* .email_icon
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 0;
+    cursor: pointer;
+    padding: 21px 30px;
+    height: 60px;
+    line-height: 1;
+    border-radius: 0;
+    background-color: #007a5c;
+    
+
+} */
+.email_field
+{
+    width: 400px;
+    height: 30px;
+    cursor: pointer;
+    margin-top: 3rem;
+    margin-inline-start: 7rem;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    margin-top: 3.5rem;
+    
+
+}
+.send_icon
+{
+    color:#fff;
+    background-color: rgb(0, 128, 81);
+    margin-top:4px;
+    cursor:pointer;
+    max-width: 100px;
+}
+.SendIcon
+{
+    font-size: 60px;
+}
+.queries
+{
+    margin-inline-start: 80rem;
+}
+.MuiSvgIcon-root
+{
+    width: 7em;
+    height: 7em;
+}
